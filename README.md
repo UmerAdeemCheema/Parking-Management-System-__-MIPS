@@ -1,5 +1,5 @@
 # Parking-Management-System-__-MIPS
-The parking system starts with asking the administrator to enter the password the password is "Great". The administrator will have two attempts to enter the correct password. If the passwords would have been entered two times incorrectly, the system will have to be restart.
+The parking system starts with asking the administrator to enter the password the password is "1111". The administrator will have two attempts to enter the correct password. If the passwords would have been entered two times incorrectly, the system will have to be restart.
 If the password is entered correct a menu will appear which would be for the users of the parking system.
 
 There are 4 functionalities for the user:
@@ -11,4 +11,4 @@ There are 4 functionalities for the user:
 
 4)  Departure of vehicle:The system will ask which type of vehicle you want to depart. A car or a bike. Then the system will ask the numerical part of the plate number of the vehicle. the system will check whether the entered plate number is correct or not. 0 cannot be entered in the plate number. Then the system will check whether the number plate entered is present inside the parking or not. If present then the vehicle will be departed.
 
-The system can be exitted from the menu. The system can't be shutdown if there is a vehicle present in the parking. if there is no vehicle in the parking. Then the system will ask the password of the administrator which is "Great". If the password is entered correctly the system will shut down.
+The system can be exitted from the menu. The system can't be shutdown if there is a vehicle present in the parking. if there is no vehicle in the parking. Then the system will ask the password of the administrator which is "1111". If the password is entered correctly the system will shut down.
